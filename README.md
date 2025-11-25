@@ -133,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aditya Pawar**
 - GitHub: [@adityapawar327](https://github.com/adityapawar327)
-- Kaggle: [Profile](https://www.kaggle.com/)
+- Kaggle: [Profile](https://www.kaggle.com/adityapawar327)
 
 ## 🙏 Acknowledgments
 
